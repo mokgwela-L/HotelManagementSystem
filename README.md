@@ -1,12 +1,12 @@
 
 # Hotel Management System
 
-A full-stack web application for managing hotel operations including guest registration, room management, and booking reservations.
+A full-stack web application for managing hotel operations including guest registration, room management and booking reservations.
 
 ## ?? Features
 
-- **Guest Management**: Register, update, and manage guest information
-- **Room Management**: Add, update, and track room availability
+- **Guest Management**: Register, update and manage guest information
+- **Room Management**: Add, update and track room availability
 - **Booking System**: Create and manage reservations with automatic price calculation
 - **Dashboard**: View and manage all bookings 
 - **Duplicate Prevention**: Automatic checking for duplicate emails and room numbers
@@ -56,7 +56,7 @@ A full-stack web application for managing hotel operations including guest regis
 
 - Visual Studio 2022 or later
 - .NET 6.0 SDK or later
-- SQL Server (LocalDB, Express, or Full)
+- SQL Server (LocalDB, Express or Full)
 - Node.js 16+ and npm
 - Visual Studio Code (for React development)
 
